@@ -1,2 +1,2 @@
 <div id="card_questions"></div>
-<script src="http://cryptic-bastion-5586.herokuapp.com/card_questions/init?cardid=<PMW cardid>&userid=<PMW userid>" type="text/javascript"></script>
+<script src="http://cryptic-bastion-5586.herokuapp.com/card_questions/init?cardid=<PMW cardid>&userid=<PMW userid>&courseid=<PMW courseid>" type="text/javascript"></script>
