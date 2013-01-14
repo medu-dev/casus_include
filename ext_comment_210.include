@@ -1,2 +1,3 @@
 <div id="card_questions"></div>
+
 <script src="http://immense-journey-3270.herokuapp.com/card_questions/init?cardid=<PMW cardid>&userid=<PMW userid>&courseid=<PMW courseid>&casename=<PMW casename>&caseid=<PMW caseid>&cardname=<PMW cardname>&groupid=<PMW groupid>" type="text/javascript"></script>
